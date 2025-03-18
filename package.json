@@ -7,7 +7,8 @@
     "url": "https://github.com/Ayse098/JavaScript30.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
   },
   "keywords": [
     "javascript",
@@ -16,5 +17,8 @@
     "wes bos"
   ],
   "author": "Ayse098",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
 }
