@@ -1,0 +1,20 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "Repo containing Wes Bos JavaScript 30-day coding challenge projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayse098/JavaScript30.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "vanilla js",
+    "coding challenge",
+    "wes bos"
+  ],
+  "author": "Ayse098",
+  "license": "MIT"
+}
